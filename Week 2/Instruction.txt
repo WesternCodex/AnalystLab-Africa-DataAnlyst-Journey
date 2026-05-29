@@ -1,0 +1,151 @@
+AnalystLab Africa Internship – Week 1–2 Task (Data Cleaning & Exploratory Data Analysis)
+
+
+Dear Intern,
+
+Welcome to the first phase of your journey in the AnalystLab Africa Data Analytics Internship Program.
+
+You will begin with one of the most critical skills in data analytics — Data Cleaning and Exploratory Data Analysis (EDA).
+
+Week 1–2: Data Cleaning & Exploratory Data Analysis (EDA)
+
+Overview
+
+In real-world data environments, raw datasets are rarely clean or analysis-ready. This stage focuses on transforming raw data into structured, reliable datasets while uncovering initial insights.
+
+You will work with multi-domain datasets to simulate real business scenarios and build a strong analytical foundation.
+
+Objective
+
+To understand, clean, and explore raw datasets by:
+
+Identifying and resolving data quality issues
+
+Structuring datasets for analysis
+
+Generating meaningful insights through exploratory analysis
+
+Datasets
+
+You are required to work with the following datasets:
+
+E-commerce Transactions Dataset
+https://www.kaggle.com/datasets/vijayuv/onlineretail
+
+Netflix Movies & TV Shows Dataset
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+Task Breakdown
+
+1. Data Ingestion
+Load datasets into:
+Python (Pandas) or
+SQL (PostgreSQL/MySQL)
+
+Verify successful import and structure
+
+2. Dataset Familiarization
+Review dataset structure:
+Number of rows and columns
+Data types
+Key variables
+
+Identify:
+Numerical vs categorical features
+
+Potential primary keys
+
+3. Data Cleaning Process
+Handling Missing Values
+Identify null or missing entries
+
+Apply appropriate strategies:
+Removal
+Imputation
+Business-rule justificatio 
+
+Removing Duplicates
+Detect duplicate records
+Ensure dataset uniqueness and integrity
+
+Standardization
+Ensure consistency in:
+
+Date formats
+Text fields (case formatting)
+Column naming conventions
+
+Data Validation
+Identify anomalies such as:
+Negative values where not expected
+Invalid or inconsistent entries
+
+4. Exploratory Data Analysis (EDA)
+Perform exploratory analysis to uncover trends and patterns:
+
+Generate summary statistics (mean, median, distribution)
+Analyze key metrics (e.g., sales trends, content distribution)
+Identify relationships between variables
+
+Create visualizations:
+Bar charts
+Histograms
+Time-series plots
+
+5. Insight Generation
+
+Highlight 3–5 key insights from each dataset
+
+Focus on business-relevant observations
+
+Support insights with data evidence
+
+6. Documentation
+Prepare a well-structured analysis notebook including:
+
+Data cleaning steps
+
+EDA process
+
+Visualizations
+
+Insights and interpretations
+
+Tools Requirement
+
+You are expected to use:
+Python (Pandas, NumPy, Matplotlib/Seaborn)
+
+SQL (for querying and validation)
+
+Deliverables
+Cleaned datasets (CSV and/or SQL tables)
+
+Jupyter Notebook (well-documented analysis)
+
+1-page Insight Report (PDF or Word)
+
+Submission Guidelines
+Upload all deliverables to Google Drive
+
+Ensure access is set to: “Anyone with the link can view”
+
+Submit using the official submission link
+
+Professional Requirement
+All interns must:
+Add “AnalystLab Africa” as their internship experience on LinkedIn
+
+Share weekly updates highlighting:
+Tasks completed
+Key learnings
+Challenges encountered
+
+Deadline
+End of Week 2 (Sunday 17th May, 11:59 PM WAT)
+
+We encourage you to approach this task with attention to detail, as data quality forms the backbone of all analytics work.
+
+Best regards,
+
+AnalystLab Africa Team
