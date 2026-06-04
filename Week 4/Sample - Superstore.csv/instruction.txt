@@ -1,0 +1,204 @@
+Dear Intern,
+
+Welcome to Week 4 of the internship program.
+
+This week focuses on turning raw data into meaningful insights using data visualization and dashboarding tools.
+
+Week 4: Data Visualization & Dashboarding
+
+Objective
+Learn how to communicate business insights effectively through:
+- Interactive dashboards
+- Data storytelling
+- KPI analysis
+- Visual reporting
+
+By the end of this task, you should be able to:
+- Analyze datasets
+- Identify important business metrics
+- Create professional dashboards
+- Present insights clearly to stakeholders
+
+Datasets
+1. Superstore Sales Dataset
+Use this dataset for sales and business analysis.https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+
+
+2. Global COVID-19 Dataset
+Use this dataset for trend and global impact analysis.
+https://github.com/CSSEGISandData/COVID-19
+
+Tools Requirement
+Use any one of the following tools:
+- Microsoft Power BI
+- Tableau
+
+Task Breakdown
+Task 1 — Understand the Dataset
+
+Step 1: Download the Dataset
+Download either:
+Superstore Dataset OR
+COVID-19 Dataset
+
+You may also work on both datasets for additional practice.
+
+Step 2: Explore the Dataset
+Check:
+Column names
+Missing values
+Data types
+Date fields
+Numeric measures
+
+Understand:
+- What the dataset represents
+- What business questions can be answered
+
+Task 2 — Define Key KPIs
+KPIs (Key Performance Indicators) are the most important metrics in a dashboard.
+
+Examples of KPIs
+For Superstore Dataset
+Total Revenue
+Total Profit
+Total Orders
+Profit Margin (15%, means a copy keeps $0.15 of every sales as profit after all expenses = (profit/revenue) *100)
+Sales Growth
+Top Performing Region
+Best Selling Category
+
+For COVID-19 Dataset
+Total Confirmed Cases
+Total Deaths
+Recovery Rate
+Daily Growth Rate
+Cases by Country
+Death Rate Trend
+
+Task 3 — Create Visualizations
+Build charts that clearly explain the data.
+
+Recommended Charts
+Sales Dashboard
+Bar Chart
+Line Chart
+Pie/Donut Chart
+KPI Cards
+Map Visualization
+Trend Analysis
+
+COVID Dashboard
+Global Case Trend
+Country Comparison
+Daily Cases Line Chart
+Recovery vs Death Analysis
+Geographic Maps
+
+Task 4 — Build an Interactive Dashboard
+
+Your dashboard should allow users to interact with the data.
+Add These Features
+Filters
+Slicers
+Drill-down capability
+Date selection
+Region/category filtering
+Example:
+Click a region to see its sales breakdown
+Filter dashboard by year or country
+
+Task 5 — Apply Data Storytelling
+Do not only create charts — explain the meaning behind them.
+
+Your dashboard should answer questions such as:
+- Which region generates the most profit?
+- Which products are underperforming?
+- Which country had the highest COVID-19 growth?
+- What trends can decision-makers learn from?
+
+Dashboard Design Tips
+Make your dashboard:
+Clean
+Organized
+Easy to read
+Professional
+Consistent in colors and fonts
+
+Avoid:
+Too many visuals
+Cluttered layouts
+Unnecessary charts
+
+Deliverables
+Each intern must submit:
+1. Interactive Dashboard
+Accepted formats:
+.pbix (Power BI)
+.twb / Tableau file
+
+Dashboard screenshots
+
+Published dashboard link
+
+2. Presentation Slides (5–10 Slides)
+Your presentation should include:
+- Slide Suggestions
+- Project Title
+- Dataset Overview
+- Business Problem
+- KPIs Defined
+- Dashboard Screenshots
+- Key Insights
+-Recommendations
+- Challenges Faced
+- Conclusion
+
+
+Professional Requirement
+Share your dashboard project on LinkedIn.
+
+Your post should include:
+Dataset used
+Dashboard screenshots
+Key insights discovered
+Tools used
+What you learned
+
+
+Submission Checklist
+Before submitting, ensure:
+Dashboard is interactive
+Visuals are clear and readable
+KPIs are properly defined
+Presentation slides are complete
+Insights are clearly explained
+Files are properly named
+
+Deadline
+Submission closes at the end of Week 4(Sunday 31st May, 11:59 PM WAT)
+
+Best regards,
+
+AnalystLab Africa Team
+
+
+
+The presentation slides simply mean a short PowerPoint or Canva presentation (5–10 slides) that explains your dashboard project and findings.
+
+The Slide Suggestions section is a guide on what each slide should contain. For example:
+
+1. Project Title
+2. Dataset Overview
+3. Business Problem
+4. KPIs Defined
+5. Dashboard Screenshots
+6. Key Insights Discovered
+7. Recommendations
+8. Challenges Faced
+9. Conclusion
+
+The goal is to help you present your analysis professionally, just like you would explain your project to a company or stakeholder.
+
+I hope this clarifies it.
