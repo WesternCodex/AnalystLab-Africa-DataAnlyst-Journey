@@ -1,0 +1,102 @@
+# TELCO CUSTOMER CHURN ANALYSIS
+
+## Overview
+
+This project explores the IBM Telco Customer Churn dataset to identify the factors that influence customer churn and provide insights that can help improve customer retention.
+
+An interactive Power BI dashboard was developed to analyze customer demographics, subscribed services, contract types, and billing information.
+
+---
+
+## Dataset
+
+* Source: IBM Telco Customer Churn Dataset
+* Total Records: 7,043 customers
+* Total Features: 21 columns
+
+The dataset includes:
+
+* Customer demographics
+* Services subscribed
+* Contract details
+* Billing information
+* Customer tenure
+* Churn status
+
+---
+
+## Dashboard Pages
+
+### Overview
+
+* Total Customers
+* Active Customers
+* Churn Rate
+* Average Monthly Charges
+* Churn by Contract Type
+
+## Services Analysis
+
+* Internet Service
+* Online Security
+* Tech Support
+* Fiber Optic Customer Analysis
+
+## Demographic Analysis
+
+* Gender
+* Partner Status
+* Customer Tenure
+* Senior Citizen Analysis
+
+---
+
+## Key Insights
+
+* Overall churn rate is 26.54%, meaning more than 1 out of every 4 customers left the company.
+* Customers on month-to-month contracts recorded the highest churn rate.
+* Churned customers had a higher average monthly charge ($74.44) than retained customers ($61.27).
+* Customers using Fiber Optic Internet were more likely to churn.
+* Customers without Online Security and Tech Support services had a higher tendency to leave.
+* Female customers accounted for a slightly larger share of churn cases.
+* Customers without partners were more likely to churn.
+* Customers with 0–12 months tenure represented the largest share of churn.
+
+---
+
+## Recommendations
+
+* Encourage customers to switch to long-term contracts.
+* Review pricing strategies for high-paying customers.
+* Promote value-added services such as Online Security and Tech Support.
+* Focus retention efforts on new customers.
+* Develop targeted campaigns for high-risk customer segments.
+
+---
+
+## Tools Used
+
+* Power BI
+* Power Query
+* DAX
+
+---
+
+## Skills Applied
+
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* DAX Calculations
+* Data Visualization
+* Business Intelligence
+* Dashboard Design
+* Data Storytelling
+
+---
+
+## Project Goal
+
+The goal of this project is to demonstrate how data analytics can be used to understand customer behavior, reduce churn, and support better business decisions.
+
+If you have any feedback or suggestions, feel free to reach out.
